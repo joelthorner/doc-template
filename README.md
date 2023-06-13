@@ -1,7 +1,7 @@
 # doc-template
 Dev documentation template (one file)
 
-![Captura](https://user-images.githubusercontent.com/16495000/159798543-a3fb393f-91c5-4098-b010-2c85feeda20a.PNG)
+![joelthorner github io_doc-template_](https://github.com/joelthorner/doc-template/assets/16495000/ff9b1e71-97af-42d6-8fd8-fb53d875a64d)
 
 ------------------
 Designed with ❤️ by [Xiaoying Riley](https://github.com/xriley) for developers
